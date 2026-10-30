@@ -292,3 +292,11 @@ Part of the Open-Source Clinical AI Research Series by [Raphael T. Malikian](htt
 - [Clinical NLP and de-identification](https://github.com/rtmalikian/clinical-nlp-deidentification-open-source)
 - [Medical imaging and DICOM reliability](https://github.com/rtmalikian/medical-imaging-dicom-open-source-reliability)
 - [Vector databases and retrieval for clinical AI](https://github.com/rtmalikian/vector-databases-rag-clinical-ai-infrastructure)
+
+## Post-publication supplement
+
+Added 2026-10-30: [EPIC_MCP_SUPPLEMENT.md](EPIC_MCP_SUPPLEMENT.md) — a short
+implementation note on Epic's open.epic MCP documentation server as follow-on
+work for FHIR infrastructure projects. It is **not part of the paper and does
+not change its results**; the server is documentation-only and carries no
+patient data.
